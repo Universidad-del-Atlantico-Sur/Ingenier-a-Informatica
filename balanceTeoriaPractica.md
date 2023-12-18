@@ -1,5 +1,11 @@
 # Balance entre teoría y práctica
 
+<div align=center>
+
+![](/imagenes/modelosUML/balanceTeoriaPractica.svg)
+
+</div>
+
 ## Integración de teoría y práctica
 
 En lugar de verlos como elementos separados, la idea es que los estudiantes puedan aplicar los conceptos teóricos en contextos prácticos, fortaleciendo así su comprensión y habilidad para usar esos conocimientos en situaciones reales.

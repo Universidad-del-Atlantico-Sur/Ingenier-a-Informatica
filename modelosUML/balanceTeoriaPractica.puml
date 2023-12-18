@@ -1,0 +1,15 @@
+state "Balance entre teoría y práctica" as balance {
+    
+    state "Integración de teoría y práctica" as integracion
+    state "Relevancia de la teoría" as relevancia
+    state "Centrados en el estudiante" as centrado
+    state "Atentos al mundo laboral" as mundoLaboral
+    state "Desarrollo de habilidades blandas" as habilidadesBlandas
+    state "Evaluación" as evaluacion
+
+    integracion -d->relevancia
+    relevancia -r-> centrado
+    relevancia -d->mundoLaboral
+    mundoLaboral -r-> habilidadesBlandas
+    mundoLaboral -d-> evaluacion
+}
