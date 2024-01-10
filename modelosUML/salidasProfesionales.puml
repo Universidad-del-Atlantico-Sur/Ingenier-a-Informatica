@@ -1,0 +1,25 @@
+' Campo Profesional
+' Esta Licenciatura ofrece conocimientos para desarrollarse profesionalmente como:
+' Director de informática y de centros de desarrollo.
+' Diseñador, director y gestor de proyectos de software.
+' Arquitecto de software.
+' Ingeniero del conocimiento.
+' Especialista SEO.
+' Community manager.
+' Consultor de usabilidad.
+' Diseñador web.
+' Desarrollador de aplicaciones móviles.
+
+@startmindmap
+title Salidas profesionales
+
++ Egresado
+++ Director de informática y de centros de desarrollo.
+-- Director, diseñador y gestor de proyectos de software.
+++ Arquitecto de software.
+-- Ingeniero del conocimiento.
+++ Especialista SEO.
+-- Community manager.
+++ Consultor de usabilidad.
+-- Diseñador web.
+++ Desarrollador de aplicaciones móviles.

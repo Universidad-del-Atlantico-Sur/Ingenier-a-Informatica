@@ -22,4 +22,6 @@ Licenciatura en Ingeniería Informática por la Universidad del Atlántico Sur
 ![](/images/mapaGrado.png)
 [Mapa](https://docs.google.com/spreadsheets/d/1osn9y5DTUTeV8cSOvI-XKq8MxikqdHtkvrbS0h73GR4/edit?usp=sharing)
 ![](/images/modelosUML/modelosUML/perfilEgresado.svg)
+![](/images/modelosUML/modelosUML/salidasProfesionales.svg)
+
 </div>
