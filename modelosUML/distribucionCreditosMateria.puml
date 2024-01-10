@@ -7,6 +7,8 @@
 ' Ética, legislación y profesión							6	
 hide circle
 
+title Distribución de créditos por Materia
+
 class Asignaturas {
     Créditos = 204
 }

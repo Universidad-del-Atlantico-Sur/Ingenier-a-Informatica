@@ -9,6 +9,8 @@
 ' porcentaje del 60% de trabajo autónomo
 @startuml
 
+title Composición del cŕedito
+
 hide circle
 
 class Crédito {

@@ -9,6 +9,8 @@
 ' Créditos totales 222
 hide circle
 
+title Distribución de créditos
+
 class Asignaturas {
     Créditos = 204
 }
