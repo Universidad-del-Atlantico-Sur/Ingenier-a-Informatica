@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![](/imagenes/modelosUML/balanceTeoriaPractica.svg)
+![](/images/modelosUML/modelosUML/balanceTeoriaPractica.svg)
 
 </div>
 

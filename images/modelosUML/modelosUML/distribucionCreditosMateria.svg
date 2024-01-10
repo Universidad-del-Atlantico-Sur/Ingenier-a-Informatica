@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="431px" preserveAspectRatio="none" style="width:497px;height:431px;background:#FFFFFF;" version="1.1" viewBox="0 0 497 431" width="497px" zoomAndPan="magnify"><defs/><g><!--MD5=[0d10f62d65dd285f3a53f00a1b30318c]
+class Asignaturas--><g id="elem_Asignaturas"><rect codeLine="10" fill="#F1F1F1" height="64.1358" id="Asignaturas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="120.5" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="134" y="131.9659">Asignaturas</text><line style="stroke:#181818;stroke-width:0.5;" x1="121.5" x2="227.5" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="126.5" y="160.0339">Créditos = 204</text><line style="stroke:#181818;stroke-width:0.5;" x1="121.5" x2="227.5" y1="168.1358" y2="168.1358"/></g><rect fill="#F1F1F1" height="184.5433" style="stroke:#181818;stroke-width:0.5;" width="151" x="7" y="240"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="53" y="256.9659">Materias</text><line style="stroke:#181818;stroke-width:1.0;" x1="111" x2="111" y1="263.0679" y2="424.5433"/><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="263.0679" y2="263.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="12" y="280.0339">IdSwSdISI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="116" y="280.0339">54 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="286.1358" y2="286.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="12" y="303.1018">Programación</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="116" y="303.1018">42 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="309.2038" y2="309.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="12" y="326.1697">FMdI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="116" y="326.1697">36 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="332.2717" y2="332.2717"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="12" y="349.2376">SOSDR</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="116" y="349.2376">24 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="355.3396" y2="355.3396"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="12" y="372.3055">FFdI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="116" y="372.3055">6 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="378.4075" y2="378.4075"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="12" y="395.3734">IdO</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="116" y="395.3734">6 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="7" x2="158" y1="401.4754" y2="401.4754"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="12" y="418.4414">ELP</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="116" y="418.4414">6 cr.</text><rect fill="#F1F1F1" height="138.4075" style="stroke:#181818;stroke-width:0.5;" width="116" x="209.5" y="263"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="235.5" y="279.9659">Optativas</text><line style="stroke:#181818;stroke-width:1.0;" x1="278.5" x2="278.5" y1="286.0679" y2="401.4075"/><line style="stroke:#181818;stroke-width:1.0;" x1="209.5" x2="325.5" y1="286.0679" y2="286.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="214.5" y="303.0339">CaTPySw</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="283.5" y="303.0339">24 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="209.5" x2="325.5" y1="309.1358" y2="309.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="10" x="214.5" y="326.1018">II</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="283.5" y="326.1018">24 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="209.5" x2="325.5" y1="332.2038" y2="332.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="214.5" y="349.1697">SdI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="283.5" y="349.1697">24 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="209.5" x2="325.5" y1="355.2717" y2="355.2717"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="214.5" y="372.2376">VySM</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="283.5" y="372.2376">24 cr.</text><line style="stroke:#181818;stroke-width:1.0;" x1="209.5" x2="325.5" y1="378.3396" y2="378.3396"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="214.5" y="395.3055">DdAdI</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="283.5" y="395.3055">24 cr.</text><!--MD5=[920cd241fa3473390f8b337766c51a8b]
+class Prácticas--><g id="elem_Prácticas"><rect codeLine="33" fill="#F1F1F1" height="64.1358" id="Prácticas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="92" x="263.5" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="279.5" y="131.9659">Prácticas</text><line style="stroke:#181818;stroke-width:0.5;" x1="264.5" x2="354.5" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="269.5" y="160.0339">Créditos = 6</text><line style="stroke:#181818;stroke-width:0.5;" x1="264.5" x2="354.5" y1="168.1358" y2="168.1358"/></g><!--MD5=[0a36797d9f13297f5444deb1227df876]
+class TFG--><g id="elem_TFG"><rect codeLine="37" fill="#F1F1F1" height="64.1358" id="TFG" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="100" x="390.5" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="428" y="131.9659">TFG</text><line style="stroke:#181818;stroke-width:0.5;" x1="391.5" x2="489.5" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="396.5" y="160.0339">Créditos = 12</text><line style="stroke:#181818;stroke-width:0.5;" x1="391.5" x2="489.5" y1="168.1358" y2="168.1358"/></g><!--MD5=[cedc34c5d6dd3046239d1ae9ee89a7da]
+class IngenieríaInformática--><g id="elem_IngenieríaInformática"><rect fill="#F1F1F1" height="45.0679" id="IngenieríaInformática" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="154" x="232.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="235.5" y="26.9659">IngenieríaInformática</text><line style="stroke:#181818;stroke-width:0.5;" x1="233.5" x2="385.5" y1="36.0679" y2="36.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="233.5" x2="385.5" y1="44.0679" y2="44.0679"/></g><!--MD5=[b4ad786e32a5eb8f3c54f51da5d11a61]
+reverse link IngenieríaInformática to Asignaturas--><g id="link_IngenieríaInformática_Asignaturas"><path codeLine="41" d="M273.41,60.58 C254.41,76.41 231.13,95.81 211.94,111.8 " fill="none" id="IngenieríaInformática-backto-Asignaturas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="283.47,52.19,276.3003,52.9612,274.2546,59.8761,281.4243,59.1049,283.47,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1c2ec305f79b234ed994b3f8a00f6751]
+reverse link Asignaturas to Materias--><g id="link_Asignaturas_Materias"><path codeLine="42" d="M150.08,194.37 C143.71,207.24 136.64,221.55 129.53,235.92 " fill="none" id="Asignaturas-backto-Materias" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="143.96,190.96,159.1,176.13,156.51,197.16,143.96,190.96" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a280fe22eb3ed391867b1c7beb081d4b]
+reverse link Asignaturas to Optativas--><g id="link_Asignaturas_Optativas"><path codeLine="44" d="M199.11,194.22 C208.99,213.98 220.58,237.15 231.38,258.75 " fill="none" id="Asignaturas-backto-Optativas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="192.75,197.15,190.07,176.13,205.27,190.89,192.75,197.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7000357e5c9fb86ecd61312dd5f37f73]
+reverse link IngenieríaInformática to Prácticas--><g id="link_IngenieríaInformática_Prácticas"><path codeLine="45" d="M309.5,65.47 C309.5,80.21 309.5,97.25 309.5,111.59 " fill="none" id="IngenieríaInformática-backto-Prácticas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="309.5,52.19,305.5,58.19,309.5,64.19,313.5,58.19,309.5,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0ea40e362cb38dcbee4cb4bc6e09fccb]
+reverse link IngenieríaInformática to TFG--><g id="link_IngenieríaInformática_TFG"><path codeLine="46" d="M344.74,60.76 C363.05,76.49 385.42,95.69 403.92,111.59 " fill="none" id="IngenieríaInformática-backto-TFG" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="334.76,52.19,336.7091,59.1327,343.8674,60.0038,341.9183,53.0611,334.76,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[308d73d6ccef7b8c2abc84a951fc8661]
+@startuml
+' Fundamentos matemáticos de la informática					36	
+' Fundamentos físicos de la informática						6	
+' Programación												42	
+' Ingeniería del software, sistemas de información y sistemas inteligentes	54	
+' Ingeniería de ordenadores									6	
+' Sistemas operativos, Sistemas distribuidos y Redes		24	
+' Ética, legislación y profesión							6	
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+json Materias {
+"IdSwSdISI":"54 cr.",
+"Programación":"42 cr.",
+"FMdI":"36 cr.",
+"SOSDR":"24 cr.",
+"FFdI":"6 cr.",
+"IdO":"6 cr.",
+"ELP":"6 cr."
+}
+
+json Optativas {
+"CaTPySw":"24 cr.",
+"II":"24 cr.",
+"SdI":"24 cr.",
+"VySM":"24 cr.",
+"DdAdI":"24 cr."
+}
+
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *- - Asignaturas
+Asignaturas <|-d- Materias
+
+Asignaturas <|-d- Optativas
+IngenieríaInformática *- - Prácticas
+IngenieríaInformática *- - TFG
+@enduml
+
+@startuml
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+json Materias {
+"IdSwSdISI":"54 cr.",
+"Programación":"42 cr.",
+"FMdI":"36 cr.",
+"SOSDR":"24 cr.",
+"FFdI":"6 cr.",
+"IdO":"6 cr.",
+"ELP":"6 cr."
+}
+
+json Optativas {
+"CaTPySw":"24 cr.",
+"II":"24 cr.",
+"SdI":"24 cr.",
+"VySM":"24 cr.",
+"DdAdI":"24 cr."
+}
+
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *- - Asignaturas
+Asignaturas <|-d- Materias
+
+Asignaturas <|-d- Optativas
+IngenieríaInformática *- - Prácticas
+IngenieríaInformática *- - TFG
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

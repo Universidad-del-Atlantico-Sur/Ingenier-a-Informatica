@@ -1,0 +1,37 @@
+' De esta manera, UDAS, de acuerdo con las pautas europeas que se utilizan en la
+' Universidad Europea del Atlántico (integrante de la red FUNIBER), establece el valor de 1
+' crédito = 25 horas de trabajo del estudiante. De esas horas, 10 corresponden a actividades
+' académicas que requieren la dirección y supervisión directa del profesor (clases virtuales,
+' tutorías, exámenes, etc.) y las 15 horas restantes a la realización autónoma por parte del
+' alumno de actividades académicas, tales como estudio personal y lecturas, preparación de
+' clases, elaboración de trabajos, entre otras. Es decir, la dedicación total del alumno por
+' asignatura se ha establecido con una carga de carácter virtual supervisada de un 40% y un
+' porcentaje del 60% de trabajo autónomo
+@startuml
+
+hide circle
+
+class Crédito {
+  totalHoras = 25
+  horasSupervisadas = 10
+  horasAutonomas = 15
+}
+
+class ActividadSupervisada 
+
+class ActividadAutonoma 
+
+Crédito *-- ActividadSupervisada 
+Crédito *-- ActividadAutonoma 
+
+ClasesVirtuales -u-|> ActividadSupervisada
+Tutorías -u-|> ActividadSupervisada
+Exámenes -u-|> ActividadSupervisada
+
+EstudioPersonal -u-|> ActividadAutonoma
+Lecturas -u-|> ActividadAutonoma
+PreparaciónDeClases -u-|> ActividadAutonoma
+ElaboraciónDeTrabajos -u-|> ActividadAutonoma
+
+
+@enduml

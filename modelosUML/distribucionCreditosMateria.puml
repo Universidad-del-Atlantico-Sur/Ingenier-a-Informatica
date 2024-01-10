@@ -1,0 +1,46 @@
+' Fundamentos matemáticos de la informática					36	
+' Fundamentos físicos de la informática						6	
+' Programación												42	
+' Ingeniería del software, sistemas de información y sistemas inteligentes	54	
+' Ingeniería de ordenadores									6	
+' Sistemas operativos, Sistemas distribuidos y Redes		24	
+' Ética, legislación y profesión							6	
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+json Materias {
+"IdSwSdISI":"54 cr.",
+"Programación":"42 cr.",
+"FMdI":"36 cr.",
+"SOSDR":"24 cr.",
+"FFdI":"6 cr.",
+"IdO":"6 cr.",
+"ELP":"6 cr."
+}
+
+json Optativas {
+"CaTPySw":"24 cr.",
+"II":"24 cr.",
+"SdI":"24 cr.",
+"VySM":"24 cr.",
+"DdAdI":"24 cr."
+}
+
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *-- Asignaturas
+Asignaturas <|-d- Materias
+
+Asignaturas <|-d- Optativas
+IngenieríaInformática *-- Prácticas
+IngenieríaInformática *-- TFG

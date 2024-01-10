@@ -1,0 +1,41 @@
+' La distribución de créditos en la carrera de Ingeniería Informática por la Universidad
+' del Atlántico Sur se presenta en la siguiente tabla. La malla curricular presente en el
+' apartado 7 explicita las asignaturas que componen cada conjunto de cursos.
+' Créditos de asignaturas obligatorias 120
+' Créditos de formación básica 60
+' Créditos de asignaturas optativas 24
+' Créditos de la práctica 6
+' Créditos trabajo final de grado 12
+' Créditos totales 222
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+class Obligatorias {
+    Créditos = 120
+}
+
+class Básicas {
+    Créditos = 60
+}
+
+class Optativas {
+    Créditos = 24
+}
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *-- Asignaturas
+Asignaturas <|-d- Obligatorias
+Asignaturas <|-d- Básicas
+Asignaturas <|-d- Optativas
+IngenieríaInformática *-- Prácticas
+IngenieríaInformática *-- TFG

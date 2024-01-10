@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="307px" preserveAspectRatio="none" style="width:523px;height:307px;background:#FFFFFF;" version="1.1" viewBox="0 0 523 307" width="523px" zoomAndPan="magnify"><defs/><g><!--MD5=[0d10f62d65dd285f3a53f00a1b30318c]
+class Asignaturas--><g id="elem_Asignaturas"><rect codeLine="12" fill="#F1F1F1" height="64.1358" id="Asignaturas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="146" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="159.5" y="131.9659">Asignaturas</text><line style="stroke:#181818;stroke-width:0.5;" x1="147" x2="253" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="152" y="160.0339">Créditos = 204</text><line style="stroke:#181818;stroke-width:0.5;" x1="147" x2="253" y1="168.1358" y2="168.1358"/></g><!--MD5=[102f78a700df0c15101a4da9e044f903]
+class Obligatorias--><g id="elem_Obligatorias"><rect codeLine="16" fill="#F1F1F1" height="64.1358" id="Obligatorias" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="7" y="236"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="19.5" y="255.9659">Obligatorias</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="114" y1="265.0679" y2="265.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="13" y="284.0339">Créditos = 120</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="114" y1="292.1358" y2="292.1358"/></g><!--MD5=[32867369718c676a484a58995f6fa6fb]
+class Básicas--><g id="elem_Básicas"><rect codeLine="20" fill="#F1F1F1" height="64.1358" id="Básicas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="100" x="150" y="236"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="175" y="255.9659">Básicas</text><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="249" y1="265.0679" y2="265.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="156" y="284.0339">Créditos = 60</text><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="249" y1="292.1358" y2="292.1358"/></g><!--MD5=[7cb72e34ffe2f3a23c23abd2a7641d6b]
+class Optativas--><g id="elem_Optativas"><rect codeLine="24" fill="#F1F1F1" height="64.1358" id="Optativas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="100" x="285" y="236"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="303" y="255.9659">Optativas</text><line style="stroke:#181818;stroke-width:0.5;" x1="286" x2="384" y1="265.0679" y2="265.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="291" y="284.0339">Créditos = 24</text><line style="stroke:#181818;stroke-width:0.5;" x1="286" x2="384" y1="292.1358" y2="292.1358"/></g><!--MD5=[920cd241fa3473390f8b337766c51a8b]
+class Prácticas--><g id="elem_Prácticas"><rect codeLine="28" fill="#F1F1F1" height="64.1358" id="Prácticas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="92" x="289" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="305" y="131.9659">Prácticas</text><line style="stroke:#181818;stroke-width:0.5;" x1="290" x2="380" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="295" y="160.0339">Créditos = 6</text><line style="stroke:#181818;stroke-width:0.5;" x1="290" x2="380" y1="168.1358" y2="168.1358"/></g><!--MD5=[0a36797d9f13297f5444deb1227df876]
+class TFG--><g id="elem_TFG"><rect codeLine="32" fill="#F1F1F1" height="64.1358" id="TFG" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="100" x="416" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="453.5" y="131.9659">TFG</text><line style="stroke:#181818;stroke-width:0.5;" x1="417" x2="515" y1="141.0679" y2="141.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="422" y="160.0339">Créditos = 12</text><line style="stroke:#181818;stroke-width:0.5;" x1="417" x2="515" y1="168.1358" y2="168.1358"/></g><!--MD5=[cedc34c5d6dd3046239d1ae9ee89a7da]
+class IngenieríaInformática--><g id="elem_IngenieríaInformática"><rect fill="#F1F1F1" height="45.0679" id="IngenieríaInformática" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="154" x="258" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="261" y="26.9659">IngenieríaInformática</text><line style="stroke:#181818;stroke-width:0.5;" x1="259" x2="411" y1="36.0679" y2="36.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="259" x2="411" y1="44.0679" y2="44.0679"/></g><!--MD5=[b4ad786e32a5eb8f3c54f51da5d11a61]
+reverse link IngenieríaInformática to Asignaturas--><g id="link_IngenieríaInformática_Asignaturas"><path codeLine="36" d="M298.91,60.58 C279.91,76.41 256.63,95.81 237.44,111.8 " fill="none" id="IngenieríaInformática-backto-Asignaturas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="308.97,52.19,301.8003,52.9612,299.7546,59.8761,306.9243,59.1049,308.97,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c1802716d327133b828f8ae8246bc8dc]
+reverse link Asignaturas to Obligatorias--><g id="link_Asignaturas_Obligatorias"><path codeLine="37" d="M149.37,189.44 C131.78,204.87 112.45,221.84 96.37,235.96 " fill="none" id="Asignaturas-backto-Obligatorias" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="144.92,184.03,164.56,176.1,154.15,194.56,144.92,184.03" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[89690868b9e79de11e6ed747ba254bed]
+reverse link Asignaturas to Básicas--><g id="link_Asignaturas_Básicas"><path codeLine="38" d="M200,196.34 C200,209.81 200,223.92 200,235.96 " fill="none" id="Asignaturas-backto-Básicas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="193,196.1,200,176.1,207,196.1,193,196.1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a280fe22eb3ed391867b1c7beb081d4b]
+reverse link Asignaturas to Optativas--><g id="link_Asignaturas_Optativas"><path codeLine="39" d="M249.43,189.67 C266.44,205.05 285.11,221.91 300.65,235.96 " fill="none" id="Asignaturas-backto-Optativas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="244.56,194.7,234.42,176.1,253.95,184.32,244.56,194.7" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7000357e5c9fb86ecd61312dd5f37f73]
+reverse link IngenieríaInformática to Prácticas--><g id="link_IngenieríaInformática_Prácticas"><path codeLine="40" d="M335,65.47 C335,80.21 335,97.25 335,111.59 " fill="none" id="IngenieríaInformática-backto-Prácticas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="335,52.19,331,58.19,335,64.19,339,58.19,335,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0ea40e362cb38dcbee4cb4bc6e09fccb]
+reverse link IngenieríaInformática to TFG--><g id="link_IngenieríaInformática_TFG"><path codeLine="41" d="M370.24,60.76 C388.55,76.49 410.92,95.69 429.42,111.59 " fill="none" id="IngenieríaInformática-backto-TFG" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="360.26,52.19,362.2091,59.1327,369.3674,60.0038,367.4183,53.0611,360.26,52.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[66bb64aad9d12d16c658ca488a3f945a]
+@startuml
+' La distribución de créditos en la carrera de Ingeniería Informática por la Universidad
+' del Atlántico Sur se presenta en la siguiente tabla. La malla curricular presente en el
+' apartado 7 explicita las asignaturas que componen cada conjunto de cursos.
+' Créditos de asignaturas obligatorias 120
+' Créditos de formación básica 60
+' Créditos de asignaturas optativas 24
+' Créditos de la práctica 6
+' Créditos trabajo final de grado 12
+' Créditos totales 222
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+class Obligatorias {
+    Créditos = 120
+}
+
+class Básicas {
+    Créditos = 60
+}
+
+class Optativas {
+    Créditos = 24
+}
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *- - Asignaturas
+Asignaturas <|-d- Obligatorias
+Asignaturas <|-d- Básicas
+Asignaturas <|-d- Optativas
+IngenieríaInformática *- - Prácticas
+IngenieríaInformática *- - TFG
+@enduml
+
+@startuml
+hide circle
+
+class Asignaturas {
+    Créditos = 204
+}
+
+class Obligatorias {
+    Créditos = 120
+}
+
+class Básicas {
+    Créditos = 60
+}
+
+class Optativas {
+    Créditos = 24
+}
+
+class Prácticas {
+    Créditos = 6
+}
+
+class TFG {
+    Créditos = 12
+}
+
+IngenieríaInformática *- - Asignaturas
+Asignaturas <|-d- Obligatorias
+Asignaturas <|-d- Básicas
+Asignaturas <|-d- Optativas
+IngenieríaInformática *- - Prácticas
+IngenieríaInformática *- - TFG
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

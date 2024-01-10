@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="326px" preserveAspectRatio="none" style="width:956px;height:326px;background:#FFFFFF;" version="1.1" viewBox="0 0 956 326" width="956px" zoomAndPan="magnify"><defs/><g><!--MD5=[79d57a8aa2b0703c283fce77c8a8581f]
+class Crédito--><g id="elem_Crédito"><rect codeLine="4" fill="#F1F1F1" height="102.2717" id="Crédito" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="172" x="423" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="484.5" y="26.9659">Crédito</text><line style="stroke:#181818;stroke-width:0.5;" x1="424" x2="594" y1="36.0679" y2="36.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="429" y="55.0339">totalHoras = 25</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="429" y="74.1018">horasSupervisadas = 10</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="429" y="93.1697">horasAutonomas = 15</text><line style="stroke:#181818;stroke-width:0.5;" x1="424" x2="594" y1="101.2717" y2="101.2717"/></g><!--MD5=[37530a9da52eb14444537ebd409b3899]
+class ActividadSupervisada--><g id="elem_ActividadSupervisada"><rect codeLine="10" fill="#F1F1F1" height="45.0679" id="ActividadSupervisada" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="151" x="673.5" y="169"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="676.5" y="188.9659">ActividadSupervisada</text><line style="stroke:#181818;stroke-width:0.5;" x1="674.5" x2="823.5" y1="198.0679" y2="198.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="674.5" x2="823.5" y1="206.0679" y2="206.0679"/></g><!--MD5=[ce5bc24564f57730b38f021e8069c666]
+class ActividadAutonoma--><g id="elem_ActividadAutonoma"><rect codeLine="12" fill="#F1F1F1" height="45.0679" id="ActividadAutonoma" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="137" x="260.5" y="169"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="263.5" y="188.9659">ActividadAutonoma</text><line style="stroke:#181818;stroke-width:0.5;" x1="261.5" x2="396.5" y1="198.0679" y2="198.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="261.5" x2="396.5" y1="206.0679" y2="206.0679"/></g><!--MD5=[f64a9117cf3557aff35b633c281fd938]
+class ClasesVirtuales--><g id="elem_ClasesVirtuales"><rect fill="#F1F1F1" height="45.0679" id="ClasesVirtuales" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="635" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="638" y="293.9659">ClasesVirtuales</text><line style="stroke:#181818;stroke-width:0.5;" x1="636" x2="742" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="636" x2="742" y1="311.0679" y2="311.0679"/></g><!--MD5=[1aec96b8b8125067ac6b325be3881462]
+class Tutorías--><g id="elem_Tutorías"><rect fill="#F1F1F1" height="45.0679" id="Tutorías" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="61" x="778.5" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="781.5" y="293.9659">Tutorías</text><line style="stroke:#181818;stroke-width:0.5;" x1="779.5" x2="838.5" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="779.5" x2="838.5" y1="311.0679" y2="311.0679"/></g><!--MD5=[651f26672956ab6316c863be43a10d2b]
+class Exámenes--><g id="elem_Exámenes"><rect fill="#F1F1F1" height="45.0679" id="Exámenes" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="74" x="875" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="878" y="293.9659">Exámenes</text><line style="stroke:#181818;stroke-width:0.5;" x1="876" x2="948" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="876" x2="948" y1="311.0679" y2="311.0679"/></g><!--MD5=[51f21403fcbbbc539b6c9dc54f3981a9]
+class EstudioPersonal--><g id="elem_EstudioPersonal"><rect fill="#F1F1F1" height="45.0679" id="EstudioPersonal" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="114" x="7" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="10" y="293.9659">EstudioPersonal</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="120" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="120" y1="311.0679" y2="311.0679"/></g><!--MD5=[c28c76b94b2fad15452df28c666b82af]
+class Lecturas--><g id="elem_Lecturas"><rect fill="#F1F1F1" height="45.0679" id="Lecturas" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="63" x="156.5" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="159.5" y="293.9659">Lecturas</text><line style="stroke:#181818;stroke-width:0.5;" x1="157.5" x2="218.5" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="157.5" x2="218.5" y1="311.0679" y2="311.0679"/></g><!--MD5=[5c15f93b3af71f6cf6d703d9e6ac8cbd]
+class PreparaciónDeClases--><g id="elem_PreparaciónDeClases"><rect fill="#F1F1F1" height="45.0679" id="PreparaciónDeClases" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="148" x="255" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="258" y="293.9659">PreparaciónDeClases</text><line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="402" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="402" y1="311.0679" y2="311.0679"/></g><!--MD5=[40e53031fa3e9c5c431dbd478c44f63e]
+class ElaboraciónDeTrabajos--><g id="elem_ElaboraciónDeTrabajos"><rect fill="#F1F1F1" height="45.0679" id="ElaboraciónDeTrabajos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="161" x="438.5" y="274"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="441.5" y="293.9659">ElaboraciónDeTrabajos</text><line style="stroke:#181818;stroke-width:0.5;" x1="439.5" x2="598.5" y1="303.0679" y2="303.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="439.5" x2="598.5" y1="311.0679" y2="311.0679"/></g><!--MD5=[5fcddfc3823136856bdb1373fe0c036a]
+reverse link Crédito to ActividadSupervisada--><g id="link_Crédito_ActividadSupervisada"><path codeLine="14" d="M606.89,112.64 C642.94,132.39 681.74,153.65 709.67,168.95 " fill="none" id="Crédito-backto-ActividadSupervisada" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="595.31,106.29,598.6513,112.6803,605.8352,112.0538,602.4938,105.6635,595.31,106.29" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8eff28f6a59a1537a6a2f094dde47920]
+reverse link Crédito to ActividadAutonoma--><g id="link_Crédito_ActividadAutonoma"><path codeLine="15" d="M429.74,116.9 C404.56,135.3 378.25,154.52 358.83,168.71 " fill="none" id="Crédito-backto-ActividadAutonoma" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="440.44,109.09,433.2356,109.3998,430.7506,116.1692,437.955,115.8594,440.44,109.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c82c20b89802a6d832f50608f7d04866]
+reverse link ActividadSupervisada to ClasesVirtuales--><g id="link_ActividadSupervisada_ClasesVirtuales"><path codeLine="17" d="M726.07,231.86 C717.81,246.05 708.78,261.54 701.71,273.69 " fill="none" id="ActividadSupervisada-backto-ClasesVirtuales" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="720.16,228.1,736.28,214.34,732.26,235.15,720.16,228.1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bf01d67a5701aeb6739d537278d63b54]
+reverse link ActividadSupervisada to Tutorías--><g id="link_ActividadSupervisada_Tutorías"><path codeLine="18" d="M771.93,231.86 C780.19,246.05 789.22,261.54 796.29,273.69 " fill="none" id="ActividadSupervisada-backto-Tutorías" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="765.74,235.15,761.72,214.34,777.84,228.1,765.74,235.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ff3e5faec7570bd3a05a4e75ab93f0a1]
+reverse link ActividadSupervisada to Exámenes--><g id="link_ActividadSupervisada_Exámenes"><path codeLine="19" d="M800.22,224.87 C825.54,240.86 855.39,259.73 877.87,273.94 " fill="none" id="ActividadSupervisada-backto-Exámenes" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="796.34,230.69,783.17,214.09,803.82,218.86,796.34,230.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d68e43feb29505ac15a7a79a4c03a1b7]
+reverse link ActividadAutonoma to EstudioPersonal--><g id="link_ActividadAutonoma_EstudioPersonal"><path codeLine="21" d="M254.54,221.44 C211.67,238.1 158.68,258.7 119.48,273.94 " fill="none" id="ActividadAutonoma-backto-EstudioPersonal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="252.27,214.81,273.45,214.09,257.34,227.86,252.27,214.81" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[039158a44e95eaf232a22f71572580a9]
+reverse link ActividadAutonoma to Lecturas--><g id="link_ActividadAutonoma_Lecturas"><path codeLine="22" d="M283.1,226.03 C261.55,241.77 236.5,260.07 217.52,273.94 " fill="none" id="ActividadAutonoma-backto-Lecturas" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="279.16,220.24,299.44,214.09,287.42,231.54,279.16,220.24" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5d2b2fad2ff0907bedbe93676a384160]
+reverse link ActividadAutonoma to PreparaciónDeClases--><g id="link_ActividadAutonoma_PreparaciónDeClases"><path codeLine="23" d="M329,234.74 C329,248.12 329,262.36 329,273.69 " fill="none" id="ActividadAutonoma-backto-PreparaciónDeClases" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="322,234.34,329,214.34,336,234.34,322,234.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6db03f3cf10f269c2a8a2cf9e98d6edd]
+reverse link ActividadAutonoma to ElaboraciónDeTrabajos--><g id="link_ActividadAutonoma_ElaboraciónDeTrabajos"><path codeLine="24" d="M386.58,223.71 C416.53,239.95 452.38,259.38 479.22,273.94 " fill="none" id="ActividadAutonoma-backto-ElaboraciónDeTrabajos" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="383.08,229.78,368.83,214.09,389.75,217.47,383.08,229.78" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a7585da5c06c09f96e8f9497bda7cb7d]
+@startuml
+
+hide circle
+
+class Crédito {
+  totalHoras = 25
+  horasSupervisadas = 10
+  horasAutonomas = 15
+}
+
+class ActividadSupervisada 
+
+class ActividadAutonoma 
+
+Crédito *- - ActividadSupervisada 
+Crédito *- - ActividadAutonoma 
+
+ClasesVirtuales -u-|> ActividadSupervisada
+Tutorías -u-|> ActividadSupervisada
+Exámenes -u-|> ActividadSupervisada
+
+EstudioPersonal -u-|> ActividadAutonoma
+Lecturas -u-|> ActividadAutonoma
+PreparaciónDeClases -u-|> ActividadAutonoma
+ElaboraciónDeTrabajos -u-|> ActividadAutonoma
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>
